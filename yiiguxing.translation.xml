@@ -1,0 +1,46 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Appends the specified element to the end of this list." />
+      <item value="An optimized version of AbstractList.Itr" />
+      <item value="n optimized version of AbstractList.Itr" />
+      <item value="List Itr" />
+      <item value="Sub List" />
+      <item value="Array List Spliterator" />
+      <item value="The maximum size of array to allocate. * Some VMs reserve some header words in an array. * Attempts to allocate larger arrays may result in * OutOfMemoryError: Requested array size exceeds VM limit" />
+      <item value="grow" />
+      <item value="ensure Explicit Capacity" />
+      <item value="Internal" />
+      <item value="ensure Capacity Internal" />
+      <item value="min Expand" />
+      <item value="min Capacity" />
+      <item value="DEFAULT CAPACITY" />
+      <item value="Increases the capacity of this" />
+      <item value="ensure Capacity" />
+      <item value="mod Count" />
+      <item value="trim To Size" />
+      <item value="initial Capacity" />
+      <item value="We * distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when * first element is added." />
+      <item value="Shared empty array instance used for default sized empty instances." />
+      <item value="Shared empty array instance used for empty instances." />
+      <item value="The size of the ArrayList (the number of elements it contains)." />
+      <item value="containment" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190417000288699" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
+  </component>
+</application>
